@@ -112,7 +112,7 @@
                         <ul>
 
                             @guest
-                            <li><a href="{{ route('userprofile') }}">
+                            <li><a href="{{ route('login') }}">
                                     <i class="fa fa-user" aria-hidden="true"></i>
                                     <span class="padding_10">Se connecter</span></a>
                             </li>
